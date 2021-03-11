@@ -3,11 +3,13 @@
 
 address: 
 
-- [x] Cloud Skills
+- [X] Cloud Skills
 - [x] Software Skills (Python, HTML, MD)
 - [x] Optimization (MIP, LP, DP)
 
 👍
+
 :heart:
 
+References: xyz
 
